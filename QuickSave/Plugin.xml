@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<plugin name="Quick Save" description="Press Hotkey 10 to Quick Save" version="1.0" solo_lua="./QuickSave.lua" />
